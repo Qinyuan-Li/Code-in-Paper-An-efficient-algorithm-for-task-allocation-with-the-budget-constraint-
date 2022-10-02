@@ -33,4 +33,6 @@ Codes for Table 6.6 and Figure 6-6: Local search performance.
 Codes for Figure 6-7: Demonstrate monotonicity.
 "compare_GA_CF.ipynb": run and save the results for one run.
 “Vis_CF_GA.ipynb”: draw the figure.
+====================================================================================================
+
 “LS_TR.npy”, “LS_record.npy”, “GA_TR.npy”, “GA_record.npy”, “random_u.npy”: data used in thesis (get from “compare_GA_CF.ipynb”, and used by “Vis_CF_GA.ipynb”).
