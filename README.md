@@ -1,5 +1,5 @@
 # Code-in-Paper-An-efficient-algorithm-for-task-allocation-with-the-budget-constraint-
-This repository is for the paper "An efficient algorithm for task allocation with the budget constraint". 
+This is for the paper "An efficient algorithm for task allocation with the budget constraint". 
 ====================================================================================================
 Codes for Figure 6-2: General performance. Increase task number.
 "general_set.ipynb": run and save the results of those algorithms.
